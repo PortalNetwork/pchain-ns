@@ -10,7 +10,7 @@ BNS – or blockchain name system – is the protocol on the internet that turns
 
 ## 📝 Description
 
-ECNS is the Pchain Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
+PNS is the Pchain Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
 
 ## 📚 Documents
 
