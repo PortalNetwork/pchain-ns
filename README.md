@@ -1,3 +1,5 @@
+![PChain Name Service](./assets/title.jpg)
+
 # Pchain Name Service
 
 > 📖🔍 Documents of the Pchain Name Service.
@@ -9,6 +11,11 @@ The first native multichain system that supports EVM in the world and making lar
 
 #### Table of Contents
 -  [Introduction](./docs/INTRODUCTION.md)
+
+## 📝 PChain in Web3.0
+PChain has native support mutlichain system and compatible with EVM, it plays an importal decentralized network layer in Web3.0 services. 
+
+![web3](./assets/web3.png)
 
 ## 🔗 Links
 - [Official Website](https://pchain.org/)
