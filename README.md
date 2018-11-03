@@ -26,11 +26,6 @@ Pchain Name Service plays an connecting and entry layer in Web3.0 services. It c
 ![application layer](./assets/1-07.png)
 ![contract](./assets/1-08.png)
 
-## 📝 PChain in Web3.0
-PChain has native support mutlichain system and compatible with EVM, it plays an importal decentralized network layer in Web3.0 services. 
-
-![web3](./assets/web3.png)
-
 ## 🔗 Links
 - [Official Website](https://pchain.org/)
 - [Whitepaper](https://pchain.org/js/generic/web/viewer.html)
